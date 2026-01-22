@@ -4,7 +4,7 @@ This repository contains the code and evaluation scripts for the paper "Faster I
 
 ## Supported Models
 - Llama series (Llama2, Llama3)
-- Qwen series (Alibaba's Qwen models)
+- Qwen2 series (Alibaba's Qwen2 models)
 
 ## Installation
 1. Install dependencies:
