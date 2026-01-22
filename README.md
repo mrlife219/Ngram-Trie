@@ -22,21 +22,14 @@ This repository contains the code and evaluation scripts for the paper "Faster I
 3. Other datasets doesn't need preprocessing.
 
 ## Usage
-Use the provided shell scripts:
-- `eval_llama2.sh`: Evaluate Llama2 models
-- `eval_llama3.sh`: Evaluate Llama3 models  
-- `eval_qwen.sh`: Evaluate Qwen models
+Use the provided shell script:
+- `eval.sh`
 
 ## Evaluation Scripts
 These shell scripts automate the evaluation process for different model families:
 - Configure model paths and parameters
 - Run inference on benchmark datasets
 - Generate performance metrics and logs
-
-Example usage:
-```bash
-bash eval_llama2.sh
-```
 
 ## Baselines
 Baselines may be found in [Spec-Bench](https://github.com/hemingkx/Spec-Bench).
